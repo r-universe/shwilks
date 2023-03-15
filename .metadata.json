@@ -1,5 +1,9 @@
 [
   {
+    "package": "r3js",
+    "oncran": true
+  },
+  {
     "package": "rmarchingcubes",
     "oncran": true
   }

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "r3js"]
+	path = r3js
+	url = https://github.com/shwilks/r3js
+	shallow = true
+	registered = true
 [submodule "rmarchingcubes"]
 	path = rmarchingcubes
 	url = https://github.com/shwilks/rmarchingcubes
